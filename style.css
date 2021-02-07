@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+background-color: darksalmon;
+}
+img {
+    transition: transform .2s;
+    height:300px;
+}
+
+#myCarousel img{
+margin-top: 30px;        
+}
+#avenger{
+height:600px;    
+}
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;    
+}
